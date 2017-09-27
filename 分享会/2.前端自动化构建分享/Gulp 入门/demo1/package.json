@@ -1,0 +1,14 @@
+{
+  "name": "gulp",
+  "version": "0.0.1",
+  "description": "Gulp 入门",
+  "author": "gavin",
+  "private": true,
+  "scripts": {
+    "start": "gulp"
+  },
+  "readme": "ERROR: No README data found!",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
