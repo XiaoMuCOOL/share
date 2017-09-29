@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/css/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <form action="/reg" method="POST">
+      姓名: <input name="name" type="text">
+      年龄: <input name="age" type="number">
+      <input type="submit" value="注册">
+    </form>
+  </body>
+</html>
